@@ -47,7 +47,6 @@ Use your favorite package-manager to install, and enjoy!
 | [minimalist] | Darker version of material theme inspired by Sublime Text | ✓ | ✓ |
 | [molokai] | Molokai color scheme | ✓ | ✓ |
 | [molokayo] | Very tweaked molokai based theme | ✓ | ✓ |
-| [mountaineer] | A dark and adventurous theme | ✓ | ✓ |
 | [nord] | An arctic, north-bluish clean and elegant theme | ✓ (16) | ✓ |
 | [oceanicnext] | Oceanic Next theme | ✓ | ✓ |
 | [oceanic-material] | Material dark colorscheme | ✓ | ✓ |
